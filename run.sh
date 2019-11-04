@@ -1,0 +1,1 @@
+python final.py --lr 0.0005 --batch_size 32 --init 2 --save_dir PA2/ --epochs 15 --dataAugment 1 --train train.csv --val valid.csv --test test.csv
